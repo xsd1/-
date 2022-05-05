@@ -1,0 +1,1812 @@
+项目集的个数为 147
+0
+S   P   0   #
+P   UA   0   #
+U   *p<I>U   0   #
+U   @   0   #
+U   *p<I>U   0   *
+U   @   0   *
+U   *p<I>U   0   a
+U   @   0   a
+U   *p<I>U   0   h
+U   @   0   h
+U   *p<I>U   0   v
+U   @   0   v
+U   *p<I>U   0   y
+U   @   0   y
+U   *p<I>U   0   z
+U   @   0   z
+
+1
+S   P   1   #
+
+2
+P   UA   1   #
+A   BC(){ER}   0   #
+B   a   0   2
+B   z   0   2
+B   y   0   2
+B   h   0   2
+B   v   0   2
+B   a   0   m
+B   z   0   m
+B   y   0   m
+B   h   0   m
+B   v   0   m
+
+3
+U   *p<I>U   1   #
+U   *p<I>U   1   *
+U   *p<I>U   1   a
+U   *p<I>U   1   h
+U   *p<I>U   1   v
+U   *p<I>U   1   y
+U   *p<I>U   1   z
+
+4
+U   @   1   #
+U   @   1   *
+U   @   1   a
+U   @   1   h
+U   @   1   v
+U   @   1   y
+U   @   1   z
+
+5
+P   UA   2   #
+
+6
+A   BC(){ER}   1   #
+C   m   0   (
+C   2   0   (
+
+7
+B   a   1   2
+B   a   1   m
+
+8
+B   z   1   2
+B   z   1   m
+
+9
+B   y   1   2
+B   y   1   m
+
+10
+B   h   1   2
+B   h   1   m
+
+11
+B   v   1   2
+B   v   1   m
+
+12
+U   *p<I>U   2   #
+U   *p<I>U   2   *
+U   *p<I>U   2   a
+U   *p<I>U   2   h
+U   *p<I>U   2   v
+U   *p<I>U   2   y
+U   *p<I>U   2   z
+
+13
+A   BC(){ER}   2   #
+
+14
+C   m   1   (
+
+15
+C   2   1   (
+
+16
+U   *p<I>U   3   #
+U   *p<I>U   3   *
+U   *p<I>U   3   a
+U   *p<I>U   3   h
+U   *p<I>U   3   v
+U   *p<I>U   3   y
+U   *p<I>U   3   z
+I   k   0   >
+
+17
+A   BC(){ER}   3   #
+
+18
+U   *p<I>U   4   #
+U   *p<I>U   4   *
+U   *p<I>U   4   a
+U   *p<I>U   4   h
+U   *p<I>U   4   v
+U   *p<I>U   4   y
+U   *p<I>U   4   z
+
+19
+I   k   1   >
+
+20
+A   BC(){ER}   4   #
+
+21
+U   *p<I>U   5   #
+U   *p<I>U   5   *
+U   *p<I>U   5   a
+U   *p<I>U   5   h
+U   *p<I>U   5   v
+U   *p<I>U   5   y
+U   *p<I>U   5   z
+U   *p<I>U   0   #
+U   @   0   #
+U   *p<I>U   0   *
+U   @   0   *
+U   *p<I>U   0   a
+U   @   0   a
+U   *p<I>U   0   h
+U   @   0   h
+U   *p<I>U   0   v
+U   @   0   v
+U   *p<I>U   0   y
+U   @   0   y
+U   *p<I>U   0   z
+U   @   0   z
+
+22
+A   BC(){ER}   5   #
+E   WE   0   #
+E   XE   0   #
+E   TE   0   #
+E   FE   0   #
+E   @   0   #
+E   WE   0   r
+E   XE   0   r
+E   TE   0   r
+E   FE   0   r
+E   @   0   r
+E   WE   0   }
+E   XE   0   }
+E   TE   0   }
+E   FE   0   }
+E   @   0   }
+W   w(3){E}   0   #
+W   w(3){E}   0   2
+W   w(3){E}   0   a
+W   w(3){E}   0   f
+W   w(3){E}   0   h
+W   w(3){E}   0   w
+W   w(3){E}   0   y
+W   w(3){E}   0   z
+X   OZ   0   #
+X   OZ   0   2
+X   OZ   0   a
+X   OZ   0   f
+X   OZ   0   h
+X   OZ   0   w
+X   OZ   0   y
+X   OZ   0   z
+T   DNZ   0   #
+T   DNZ   0   2
+T   DNZ   0   a
+T   DNZ   0   f
+T   DNZ   0   h
+T   DNZ   0   w
+T   DNZ   0   y
+T   DNZ   0   z
+F   f(TXO){E}   0   #
+F   f(TXO){E}   0   2
+F   f(TXO){E}   0   a
+F   f(TXO){E}   0   f
+F   f(TXO){E}   0   h
+F   f(TXO){E}   0   w
+F   f(TXO){E}   0   y
+F   f(TXO){E}   0   z
+W   w(3){E}   0   r
+X   OZ   0   r
+T   DNZ   0   r
+F   f(TXO){E}   0   r
+W   w(3){E}   0   }
+X   OZ   0   }
+T   DNZ   0   }
+F   f(TXO){E}   0   }
+O   2LYM   0   ;
+D   a   0   2
+D   z   0   2
+D   y   0   2
+D   h   0   2
+
+23
+U   *p<I>U   6   #
+U   *p<I>U   6   *
+U   *p<I>U   6   a
+U   *p<I>U   6   h
+U   *p<I>U   6   v
+U   *p<I>U   6   y
+U   *p<I>U   6   z
+
+24
+A   BC(){ER}   6   #
+R   r3Z   0   }
+R   @   0   }
+
+25
+E   WE   1   #
+E   WE   1   r
+E   WE   1   }
+E   WE   0   #
+E   XE   0   #
+E   TE   0   #
+E   FE   0   #
+E   @   0   #
+E   WE   0   r
+E   XE   0   r
+E   TE   0   r
+E   FE   0   r
+E   @   0   r
+E   WE   0   }
+E   XE   0   }
+E   TE   0   }
+E   FE   0   }
+E   @   0   }
+W   w(3){E}   0   #
+W   w(3){E}   0   2
+W   w(3){E}   0   a
+W   w(3){E}   0   f
+W   w(3){E}   0   h
+W   w(3){E}   0   w
+W   w(3){E}   0   y
+W   w(3){E}   0   z
+X   OZ   0   #
+X   OZ   0   2
+X   OZ   0   a
+X   OZ   0   f
+X   OZ   0   h
+X   OZ   0   w
+X   OZ   0   y
+X   OZ   0   z
+T   DNZ   0   #
+T   DNZ   0   2
+T   DNZ   0   a
+T   DNZ   0   f
+T   DNZ   0   h
+T   DNZ   0   w
+T   DNZ   0   y
+T   DNZ   0   z
+F   f(TXO){E}   0   #
+F   f(TXO){E}   0   2
+F   f(TXO){E}   0   a
+F   f(TXO){E}   0   f
+F   f(TXO){E}   0   h
+F   f(TXO){E}   0   w
+F   f(TXO){E}   0   y
+F   f(TXO){E}   0   z
+W   w(3){E}   0   r
+X   OZ   0   r
+T   DNZ   0   r
+F   f(TXO){E}   0   r
+W   w(3){E}   0   }
+X   OZ   0   }
+T   DNZ   0   }
+F   f(TXO){E}   0   }
+O   2LYM   0   ;
+D   a   0   2
+D   z   0   2
+D   y   0   2
+D   h   0   2
+
+26
+E   XE   1   #
+E   XE   1   r
+E   XE   1   }
+E   WE   0   #
+E   XE   0   #
+E   TE   0   #
+E   FE   0   #
+E   @   0   #
+E   WE   0   r
+E   XE   0   r
+E   TE   0   r
+E   FE   0   r
+E   @   0   r
+E   WE   0   }
+E   XE   0   }
+E   TE   0   }
+E   FE   0   }
+E   @   0   }
+W   w(3){E}   0   #
+W   w(3){E}   0   2
+W   w(3){E}   0   a
+W   w(3){E}   0   f
+W   w(3){E}   0   h
+W   w(3){E}   0   w
+W   w(3){E}   0   y
+W   w(3){E}   0   z
+X   OZ   0   #
+X   OZ   0   2
+X   OZ   0   a
+X   OZ   0   f
+X   OZ   0   h
+X   OZ   0   w
+X   OZ   0   y
+X   OZ   0   z
+T   DNZ   0   #
+T   DNZ   0   2
+T   DNZ   0   a
+T   DNZ   0   f
+T   DNZ   0   h
+T   DNZ   0   w
+T   DNZ   0   y
+T   DNZ   0   z
+F   f(TXO){E}   0   #
+F   f(TXO){E}   0   2
+F   f(TXO){E}   0   a
+F   f(TXO){E}   0   f
+F   f(TXO){E}   0   h
+F   f(TXO){E}   0   w
+F   f(TXO){E}   0   y
+F   f(TXO){E}   0   z
+W   w(3){E}   0   r
+X   OZ   0   r
+T   DNZ   0   r
+F   f(TXO){E}   0   r
+W   w(3){E}   0   }
+X   OZ   0   }
+T   DNZ   0   }
+F   f(TXO){E}   0   }
+O   2LYM   0   ;
+D   a   0   2
+D   z   0   2
+D   y   0   2
+D   h   0   2
+
+27
+E   TE   1   #
+E   TE   1   r
+E   TE   1   }
+E   WE   0   #
+E   XE   0   #
+E   TE   0   #
+E   FE   0   #
+E   @   0   #
+E   WE   0   r
+E   XE   0   r
+E   TE   0   r
+E   FE   0   r
+E   @   0   r
+E   WE   0   }
+E   XE   0   }
+E   TE   0   }
+E   FE   0   }
+E   @   0   }
+W   w(3){E}   0   #
+W   w(3){E}   0   2
+W   w(3){E}   0   a
+W   w(3){E}   0   f
+W   w(3){E}   0   h
+W   w(3){E}   0   w
+W   w(3){E}   0   y
+W   w(3){E}   0   z
+X   OZ   0   #
+X   OZ   0   2
+X   OZ   0   a
+X   OZ   0   f
+X   OZ   0   h
+X   OZ   0   w
+X   OZ   0   y
+X   OZ   0   z
+T   DNZ   0   #
+T   DNZ   0   2
+T   DNZ   0   a
+T   DNZ   0   f
+T   DNZ   0   h
+T   DNZ   0   w
+T   DNZ   0   y
+T   DNZ   0   z
+F   f(TXO){E}   0   #
+F   f(TXO){E}   0   2
+F   f(TXO){E}   0   a
+F   f(TXO){E}   0   f
+F   f(TXO){E}   0   h
+F   f(TXO){E}   0   w
+F   f(TXO){E}   0   y
+F   f(TXO){E}   0   z
+W   w(3){E}   0   r
+X   OZ   0   r
+T   DNZ   0   r
+F   f(TXO){E}   0   r
+W   w(3){E}   0   }
+X   OZ   0   }
+T   DNZ   0   }
+F   f(TXO){E}   0   }
+O   2LYM   0   ;
+D   a   0   2
+D   z   0   2
+D   y   0   2
+D   h   0   2
+
+28
+E   FE   1   #
+E   FE   1   r
+E   FE   1   }
+E   WE   0   #
+E   XE   0   #
+E   TE   0   #
+E   FE   0   #
+E   @   0   #
+E   WE   0   r
+E   XE   0   r
+E   TE   0   r
+E   FE   0   r
+E   @   0   r
+E   WE   0   }
+E   XE   0   }
+E   TE   0   }
+E   FE   0   }
+E   @   0   }
+W   w(3){E}   0   #
+W   w(3){E}   0   2
+W   w(3){E}   0   a
+W   w(3){E}   0   f
+W   w(3){E}   0   h
+W   w(3){E}   0   w
+W   w(3){E}   0   y
+W   w(3){E}   0   z
+X   OZ   0   #
+X   OZ   0   2
+X   OZ   0   a
+X   OZ   0   f
+X   OZ   0   h
+X   OZ   0   w
+X   OZ   0   y
+X   OZ   0   z
+T   DNZ   0   #
+T   DNZ   0   2
+T   DNZ   0   a
+T   DNZ   0   f
+T   DNZ   0   h
+T   DNZ   0   w
+T   DNZ   0   y
+T   DNZ   0   z
+F   f(TXO){E}   0   #
+F   f(TXO){E}   0   2
+F   f(TXO){E}   0   a
+F   f(TXO){E}   0   f
+F   f(TXO){E}   0   h
+F   f(TXO){E}   0   w
+F   f(TXO){E}   0   y
+F   f(TXO){E}   0   z
+W   w(3){E}   0   r
+X   OZ   0   r
+T   DNZ   0   r
+F   f(TXO){E}   0   r
+W   w(3){E}   0   }
+X   OZ   0   }
+T   DNZ   0   }
+F   f(TXO){E}   0   }
+O   2LYM   0   ;
+D   a   0   2
+D   z   0   2
+D   y   0   2
+D   h   0   2
+
+29
+E   @   1   #
+E   @   1   r
+E   @   1   }
+
+30
+W   w(3){E}   1   #
+W   w(3){E}   1   2
+W   w(3){E}   1   a
+W   w(3){E}   1   f
+W   w(3){E}   1   h
+W   w(3){E}   1   w
+W   w(3){E}   1   y
+W   w(3){E}   1   z
+W   w(3){E}   1   r
+W   w(3){E}   1   }
+
+31
+X   OZ   1   #
+X   OZ   1   2
+X   OZ   1   a
+X   OZ   1   f
+X   OZ   1   h
+X   OZ   1   w
+X   OZ   1   y
+X   OZ   1   z
+X   OZ   1   r
+X   OZ   1   }
+Z   ;   0   #
+Z   ;   0   2
+Z   ;   0   a
+Z   ;   0   f
+Z   ;   0   h
+Z   ;   0   w
+Z   ;   0   y
+Z   ;   0   z
+Z   ;   0   r
+Z   ;   0   }
+
+32
+T   DNZ   1   #
+T   DNZ   1   2
+T   DNZ   1   a
+T   DNZ   1   f
+T   DNZ   1   h
+T   DNZ   1   w
+T   DNZ   1   y
+T   DNZ   1   z
+T   DNZ   1   r
+T   DNZ   1   }
+N   2J   0   ;
+N   2J,N   0   ;
+
+33
+F   f(TXO){E}   1   #
+F   f(TXO){E}   1   2
+F   f(TXO){E}   1   a
+F   f(TXO){E}   1   f
+F   f(TXO){E}   1   h
+F   f(TXO){E}   1   w
+F   f(TXO){E}   1   y
+F   f(TXO){E}   1   z
+F   f(TXO){E}   1   r
+F   f(TXO){E}   1   }
+
+34
+O   2LYM   1   ;
+L   =   0   2
+L   >   0   2
+L   <   0   2
+L   >=   0   2
+L   <=   0   2
+L   /=   0   2
+L   +=   0   2
+L   -=   0   2
+L   =   0   3
+L   >   0   3
+L   <   0   3
+L   >=   0   3
+L   <=   0   3
+L   /=   0   3
+L   +=   0   3
+L   -=   0   3
+
+35
+D   a   1   2
+
+36
+D   z   1   2
+
+37
+D   y   1   2
+
+38
+D   h   1   2
+
+39
+A   BC(){ER}   7   #
+
+40
+R   r3Z   1   }
+
+41
+R   @   1   }
+
+42
+E   WE   2   #
+E   WE   2   r
+E   WE   2   }
+
+43
+E   XE   2   #
+E   XE   2   r
+E   XE   2   }
+
+44
+E   TE   2   #
+E   TE   2   r
+E   TE   2   }
+
+45
+E   FE   2   #
+E   FE   2   r
+E   FE   2   }
+
+46
+W   w(3){E}   2   #
+W   w(3){E}   2   2
+W   w(3){E}   2   a
+W   w(3){E}   2   f
+W   w(3){E}   2   h
+W   w(3){E}   2   w
+W   w(3){E}   2   y
+W   w(3){E}   2   z
+W   w(3){E}   2   r
+W   w(3){E}   2   }
+
+47
+X   OZ   2   #
+X   OZ   2   2
+X   OZ   2   a
+X   OZ   2   f
+X   OZ   2   h
+X   OZ   2   w
+X   OZ   2   y
+X   OZ   2   z
+X   OZ   2   r
+X   OZ   2   }
+
+48
+Z   ;   1   #
+Z   ;   1   2
+Z   ;   1   a
+Z   ;   1   f
+Z   ;   1   h
+Z   ;   1   w
+Z   ;   1   y
+Z   ;   1   z
+Z   ;   1   r
+Z   ;   1   }
+
+49
+T   DNZ   2   #
+T   DNZ   2   2
+T   DNZ   2   a
+T   DNZ   2   f
+T   DNZ   2   h
+T   DNZ   2   w
+T   DNZ   2   y
+T   DNZ   2   z
+T   DNZ   2   r
+T   DNZ   2   }
+Z   ;   0   #
+Z   ;   0   2
+Z   ;   0   a
+Z   ;   0   f
+Z   ;   0   h
+Z   ;   0   w
+Z   ;   0   y
+Z   ;   0   z
+Z   ;   0   r
+Z   ;   0   }
+
+50
+N   2J   1   ;
+N   2J,N   1   ;
+J   =Y   0   ;
+J   @   0   ;
+J   =Y   0   ,
+J   @   0   ,
+
+51
+F   f(TXO){E}   2   #
+F   f(TXO){E}   2   2
+F   f(TXO){E}   2   a
+F   f(TXO){E}   2   f
+F   f(TXO){E}   2   h
+F   f(TXO){E}   2   w
+F   f(TXO){E}   2   y
+F   f(TXO){E}   2   z
+F   f(TXO){E}   2   r
+F   f(TXO){E}   2   }
+T   DNZ   0   2
+D   a   0   2
+D   z   0   2
+D   y   0   2
+D   h   0   2
+
+52
+O   2LYM   2   ;
+Y   2   0   #
+Y   3   0   #
+Y   2   0   +
+Y   3   0   +
+Y   2   0   -
+Y   3   0   -
+Y   2   0   /
+Y   3   0   /
+Y   2   0   ;
+Y   3   0   ;
+
+53
+L   =   1   2
+L   =   1   3
+
+54
+L   >   1   2
+L   >=   1   2
+L   >   1   3
+L   >=   1   3
+
+55
+L   <   1   2
+L   <=   1   2
+L   <   1   3
+L   <=   1   3
+
+56
+L   /=   1   2
+L   /=   1   3
+
+57
+L   +=   1   2
+L   +=   1   3
+
+58
+L   -=   1   2
+L   -=   1   3
+
+59
+A   BC(){ER}   8   #
+
+60
+R   r3Z   2   }
+Z   ;   0   }
+
+61
+W   w(3){E}   3   #
+W   w(3){E}   3   2
+W   w(3){E}   3   a
+W   w(3){E}   3   f
+W   w(3){E}   3   h
+W   w(3){E}   3   w
+W   w(3){E}   3   y
+W   w(3){E}   3   z
+W   w(3){E}   3   r
+W   w(3){E}   3   }
+
+62
+T   DNZ   3   #
+T   DNZ   3   2
+T   DNZ   3   a
+T   DNZ   3   f
+T   DNZ   3   h
+T   DNZ   3   w
+T   DNZ   3   y
+T   DNZ   3   z
+T   DNZ   3   r
+T   DNZ   3   }
+
+63
+N   2J   2   ;
+N   2J,N   2   ;
+
+64
+J   =Y   1   ;
+J   =Y   1   ,
+Y   2   0   ;
+Y   3   0   ;
+Y   2   0   ,
+Y   3   0   ,
+
+65
+J   @   1   ;
+J   @   1   ,
+
+66
+F   f(TXO){E}   3   #
+F   f(TXO){E}   3   2
+F   f(TXO){E}   3   a
+F   f(TXO){E}   3   f
+F   f(TXO){E}   3   h
+F   f(TXO){E}   3   w
+F   f(TXO){E}   3   y
+F   f(TXO){E}   3   z
+F   f(TXO){E}   3   r
+F   f(TXO){E}   3   }
+X   OZ   0   2
+O   2LYM   0   ;
+
+67
+T   DNZ   1   2
+N   2J   0   ;
+N   2J,N   0   ;
+
+68
+O   2LYM   3   ;
+M   QYM   0   ;
+M   @   0   ;
+Q   +   0   2
+Q   -   0   2
+Q   /   0   2
+Q   +   0   3
+Q   -   0   3
+Q   /   0   3
+
+69
+Y   2   1   #
+Y   2   1   +
+Y   2   1   -
+Y   2   1   /
+Y   2   1   ;
+
+70
+Y   3   1   #
+Y   3   1   +
+Y   3   1   -
+Y   3   1   /
+Y   3   1   ;
+
+71
+L   >=   2   2
+L   >=   2   3
+
+72
+L   <=   2   2
+L   <=   2   3
+
+73
+L   /=   2   2
+L   /=   2   3
+
+74
+L   +=   2   2
+L   +=   2   3
+
+75
+L   -=   2   2
+L   -=   2   3
+
+76
+R   r3Z   3   }
+
+77
+Z   ;   1   }
+
+78
+W   w(3){E}   4   #
+W   w(3){E}   4   2
+W   w(3){E}   4   a
+W   w(3){E}   4   f
+W   w(3){E}   4   h
+W   w(3){E}   4   w
+W   w(3){E}   4   y
+W   w(3){E}   4   z
+W   w(3){E}   4   r
+W   w(3){E}   4   }
+
+79
+N   2J,N   3   ;
+N   2J   0   ;
+N   2J,N   0   ;
+
+80
+J   =Y   2   ;
+J   =Y   2   ,
+
+81
+Y   2   1   ;
+Y   2   1   ,
+
+82
+Y   3   1   ;
+Y   3   1   ,
+
+83
+F   f(TXO){E}   4   #
+F   f(TXO){E}   4   2
+F   f(TXO){E}   4   a
+F   f(TXO){E}   4   f
+F   f(TXO){E}   4   h
+F   f(TXO){E}   4   w
+F   f(TXO){E}   4   y
+F   f(TXO){E}   4   z
+F   f(TXO){E}   4   r
+F   f(TXO){E}   4   }
+O   2LYM   0   )
+
+84
+X   OZ   1   2
+Z   ;   0   2
+
+85
+T   DNZ   2   2
+Z   ;   0   2
+
+86
+O   2LYM   4   ;
+
+87
+M   QYM   1   ;
+Y   2   0   #
+Y   3   0   #
+Y   2   0   +
+Y   3   0   +
+Y   2   0   -
+Y   3   0   -
+Y   2   0   /
+Y   3   0   /
+Y   2   0   ;
+Y   3   0   ;
+
+88
+M   @   1   ;
+
+89
+Q   +   1   2
+Q   +   1   3
+
+90
+Q   -   1   2
+Q   -   1   3
+
+91
+Q   /   1   2
+Q   /   1   3
+
+92
+W   w(3){E}   5   #
+W   w(3){E}   5   2
+W   w(3){E}   5   a
+W   w(3){E}   5   f
+W   w(3){E}   5   h
+W   w(3){E}   5   w
+W   w(3){E}   5   y
+W   w(3){E}   5   z
+W   w(3){E}   5   r
+W   w(3){E}   5   }
+E   WE   0   }
+E   XE   0   }
+E   TE   0   }
+E   FE   0   }
+E   @   0   }
+W   w(3){E}   0   #
+W   w(3){E}   0   2
+W   w(3){E}   0   a
+W   w(3){E}   0   f
+W   w(3){E}   0   h
+W   w(3){E}   0   w
+W   w(3){E}   0   y
+W   w(3){E}   0   z
+W   w(3){E}   0   }
+X   OZ   0   #
+X   OZ   0   2
+X   OZ   0   a
+X   OZ   0   f
+X   OZ   0   h
+X   OZ   0   w
+X   OZ   0   y
+X   OZ   0   z
+X   OZ   0   }
+T   DNZ   0   #
+T   DNZ   0   2
+T   DNZ   0   a
+T   DNZ   0   f
+T   DNZ   0   h
+T   DNZ   0   w
+T   DNZ   0   y
+T   DNZ   0   z
+T   DNZ   0   }
+F   f(TXO){E}   0   #
+F   f(TXO){E}   0   2
+F   f(TXO){E}   0   a
+F   f(TXO){E}   0   f
+F   f(TXO){E}   0   h
+F   f(TXO){E}   0   w
+F   f(TXO){E}   0   y
+F   f(TXO){E}   0   z
+F   f(TXO){E}   0   }
+O   2LYM   0   ;
+D   a   0   2
+D   z   0   2
+D   y   0   2
+D   h   0   2
+
+93
+N   2J,N   4   ;
+
+94
+F   f(TXO){E}   5   #
+F   f(TXO){E}   5   2
+F   f(TXO){E}   5   a
+F   f(TXO){E}   5   f
+F   f(TXO){E}   5   h
+F   f(TXO){E}   5   w
+F   f(TXO){E}   5   y
+F   f(TXO){E}   5   z
+F   f(TXO){E}   5   r
+F   f(TXO){E}   5   }
+
+95
+O   2LYM   1   )
+L   =   0   2
+L   >   0   2
+L   <   0   2
+L   >=   0   2
+L   <=   0   2
+L   /=   0   2
+L   +=   0   2
+L   -=   0   2
+L   =   0   3
+L   >   0   3
+L   <   0   3
+L   >=   0   3
+L   <=   0   3
+L   /=   0   3
+L   +=   0   3
+L   -=   0   3
+
+96
+X   OZ   2   2
+
+97
+Z   ;   1   2
+
+98
+T   DNZ   3   2
+
+99
+M   QYM   2   ;
+M   QYM   0   ;
+M   @   0   ;
+Q   +   0   2
+Q   -   0   2
+Q   /   0   2
+Q   +   0   3
+Q   -   0   3
+Q   /   0   3
+
+100
+W   w(3){E}   6   #
+W   w(3){E}   6   2
+W   w(3){E}   6   a
+W   w(3){E}   6   f
+W   w(3){E}   6   h
+W   w(3){E}   6   w
+W   w(3){E}   6   y
+W   w(3){E}   6   z
+W   w(3){E}   6   r
+W   w(3){E}   6   }
+
+101
+E   WE   1   }
+E   WE   0   }
+E   XE   0   }
+E   TE   0   }
+E   FE   0   }
+E   @   0   }
+W   w(3){E}   0   #
+W   w(3){E}   0   2
+W   w(3){E}   0   a
+W   w(3){E}   0   f
+W   w(3){E}   0   h
+W   w(3){E}   0   w
+W   w(3){E}   0   y
+W   w(3){E}   0   z
+W   w(3){E}   0   }
+X   OZ   0   #
+X   OZ   0   2
+X   OZ   0   a
+X   OZ   0   f
+X   OZ   0   h
+X   OZ   0   w
+X   OZ   0   y
+X   OZ   0   z
+X   OZ   0   }
+T   DNZ   0   #
+T   DNZ   0   2
+T   DNZ   0   a
+T   DNZ   0   f
+T   DNZ   0   h
+T   DNZ   0   w
+T   DNZ   0   y
+T   DNZ   0   z
+T   DNZ   0   }
+F   f(TXO){E}   0   #
+F   f(TXO){E}   0   2
+F   f(TXO){E}   0   a
+F   f(TXO){E}   0   f
+F   f(TXO){E}   0   h
+F   f(TXO){E}   0   w
+F   f(TXO){E}   0   y
+F   f(TXO){E}   0   z
+F   f(TXO){E}   0   }
+O   2LYM   0   ;
+D   a   0   2
+D   z   0   2
+D   y   0   2
+D   h   0   2
+
+102
+E   XE   1   }
+E   WE   0   }
+E   XE   0   }
+E   TE   0   }
+E   FE   0   }
+E   @   0   }
+W   w(3){E}   0   #
+W   w(3){E}   0   2
+W   w(3){E}   0   a
+W   w(3){E}   0   f
+W   w(3){E}   0   h
+W   w(3){E}   0   w
+W   w(3){E}   0   y
+W   w(3){E}   0   z
+W   w(3){E}   0   }
+X   OZ   0   #
+X   OZ   0   2
+X   OZ   0   a
+X   OZ   0   f
+X   OZ   0   h
+X   OZ   0   w
+X   OZ   0   y
+X   OZ   0   z
+X   OZ   0   }
+T   DNZ   0   #
+T   DNZ   0   2
+T   DNZ   0   a
+T   DNZ   0   f
+T   DNZ   0   h
+T   DNZ   0   w
+T   DNZ   0   y
+T   DNZ   0   z
+T   DNZ   0   }
+F   f(TXO){E}   0   #
+F   f(TXO){E}   0   2
+F   f(TXO){E}   0   a
+F   f(TXO){E}   0   f
+F   f(TXO){E}   0   h
+F   f(TXO){E}   0   w
+F   f(TXO){E}   0   y
+F   f(TXO){E}   0   z
+F   f(TXO){E}   0   }
+O   2LYM   0   ;
+D   a   0   2
+D   z   0   2
+D   y   0   2
+D   h   0   2
+
+103
+E   TE   1   }
+E   WE   0   }
+E   XE   0   }
+E   TE   0   }
+E   FE   0   }
+E   @   0   }
+W   w(3){E}   0   #
+W   w(3){E}   0   2
+W   w(3){E}   0   a
+W   w(3){E}   0   f
+W   w(3){E}   0   h
+W   w(3){E}   0   w
+W   w(3){E}   0   y
+W   w(3){E}   0   z
+W   w(3){E}   0   }
+X   OZ   0   #
+X   OZ   0   2
+X   OZ   0   a
+X   OZ   0   f
+X   OZ   0   h
+X   OZ   0   w
+X   OZ   0   y
+X   OZ   0   z
+X   OZ   0   }
+T   DNZ   0   #
+T   DNZ   0   2
+T   DNZ   0   a
+T   DNZ   0   f
+T   DNZ   0   h
+T   DNZ   0   w
+T   DNZ   0   y
+T   DNZ   0   z
+T   DNZ   0   }
+F   f(TXO){E}   0   #
+F   f(TXO){E}   0   2
+F   f(TXO){E}   0   a
+F   f(TXO){E}   0   f
+F   f(TXO){E}   0   h
+F   f(TXO){E}   0   w
+F   f(TXO){E}   0   y
+F   f(TXO){E}   0   z
+F   f(TXO){E}   0   }
+O   2LYM   0   ;
+D   a   0   2
+D   z   0   2
+D   y   0   2
+D   h   0   2
+
+104
+E   FE   1   }
+E   WE   0   }
+E   XE   0   }
+E   TE   0   }
+E   FE   0   }
+E   @   0   }
+W   w(3){E}   0   #
+W   w(3){E}   0   2
+W   w(3){E}   0   a
+W   w(3){E}   0   f
+W   w(3){E}   0   h
+W   w(3){E}   0   w
+W   w(3){E}   0   y
+W   w(3){E}   0   z
+W   w(3){E}   0   }
+X   OZ   0   #
+X   OZ   0   2
+X   OZ   0   a
+X   OZ   0   f
+X   OZ   0   h
+X   OZ   0   w
+X   OZ   0   y
+X   OZ   0   z
+X   OZ   0   }
+T   DNZ   0   #
+T   DNZ   0   2
+T   DNZ   0   a
+T   DNZ   0   f
+T   DNZ   0   h
+T   DNZ   0   w
+T   DNZ   0   y
+T   DNZ   0   z
+T   DNZ   0   }
+F   f(TXO){E}   0   #
+F   f(TXO){E}   0   2
+F   f(TXO){E}   0   a
+F   f(TXO){E}   0   f
+F   f(TXO){E}   0   h
+F   f(TXO){E}   0   w
+F   f(TXO){E}   0   y
+F   f(TXO){E}   0   z
+F   f(TXO){E}   0   }
+O   2LYM   0   ;
+D   a   0   2
+D   z   0   2
+D   y   0   2
+D   h   0   2
+
+105
+E   @   1   }
+
+106
+W   w(3){E}   1   #
+W   w(3){E}   1   2
+W   w(3){E}   1   a
+W   w(3){E}   1   f
+W   w(3){E}   1   h
+W   w(3){E}   1   w
+W   w(3){E}   1   y
+W   w(3){E}   1   z
+W   w(3){E}   1   }
+
+107
+X   OZ   1   #
+X   OZ   1   2
+X   OZ   1   a
+X   OZ   1   f
+X   OZ   1   h
+X   OZ   1   w
+X   OZ   1   y
+X   OZ   1   z
+X   OZ   1   }
+Z   ;   0   #
+Z   ;   0   2
+Z   ;   0   a
+Z   ;   0   f
+Z   ;   0   h
+Z   ;   0   w
+Z   ;   0   y
+Z   ;   0   z
+Z   ;   0   }
+
+108
+T   DNZ   1   #
+T   DNZ   1   2
+T   DNZ   1   a
+T   DNZ   1   f
+T   DNZ   1   h
+T   DNZ   1   w
+T   DNZ   1   y
+T   DNZ   1   z
+T   DNZ   1   }
+N   2J   0   ;
+N   2J,N   0   ;
+
+109
+F   f(TXO){E}   1   #
+F   f(TXO){E}   1   2
+F   f(TXO){E}   1   a
+F   f(TXO){E}   1   f
+F   f(TXO){E}   1   h
+F   f(TXO){E}   1   w
+F   f(TXO){E}   1   y
+F   f(TXO){E}   1   z
+F   f(TXO){E}   1   }
+
+110
+F   f(TXO){E}   6   #
+F   f(TXO){E}   6   2
+F   f(TXO){E}   6   a
+F   f(TXO){E}   6   f
+F   f(TXO){E}   6   h
+F   f(TXO){E}   6   w
+F   f(TXO){E}   6   y
+F   f(TXO){E}   6   z
+F   f(TXO){E}   6   r
+F   f(TXO){E}   6   }
+
+111
+O   2LYM   2   )
+Y   2   0   #
+Y   3   0   #
+Y   2   0   +
+Y   3   0   +
+Y   2   0   -
+Y   3   0   -
+Y   2   0   /
+Y   3   0   /
+Y   2   0   )
+Y   3   0   )
+
+112
+M   QYM   3   ;
+
+113
+W   w(3){E}   7   #
+W   w(3){E}   7   2
+W   w(3){E}   7   a
+W   w(3){E}   7   f
+W   w(3){E}   7   h
+W   w(3){E}   7   w
+W   w(3){E}   7   y
+W   w(3){E}   7   z
+W   w(3){E}   7   r
+W   w(3){E}   7   }
+
+114
+E   WE   2   }
+
+115
+E   XE   2   }
+
+116
+E   TE   2   }
+
+117
+E   FE   2   }
+
+118
+W   w(3){E}   2   #
+W   w(3){E}   2   2
+W   w(3){E}   2   a
+W   w(3){E}   2   f
+W   w(3){E}   2   h
+W   w(3){E}   2   w
+W   w(3){E}   2   y
+W   w(3){E}   2   z
+W   w(3){E}   2   }
+
+119
+X   OZ   2   #
+X   OZ   2   2
+X   OZ   2   a
+X   OZ   2   f
+X   OZ   2   h
+X   OZ   2   w
+X   OZ   2   y
+X   OZ   2   z
+X   OZ   2   }
+
+120
+Z   ;   1   #
+Z   ;   1   2
+Z   ;   1   a
+Z   ;   1   f
+Z   ;   1   h
+Z   ;   1   w
+Z   ;   1   y
+Z   ;   1   z
+Z   ;   1   }
+
+121
+T   DNZ   2   #
+T   DNZ   2   2
+T   DNZ   2   a
+T   DNZ   2   f
+T   DNZ   2   h
+T   DNZ   2   w
+T   DNZ   2   y
+T   DNZ   2   z
+T   DNZ   2   }
+Z   ;   0   #
+Z   ;   0   2
+Z   ;   0   a
+Z   ;   0   f
+Z   ;   0   h
+Z   ;   0   w
+Z   ;   0   y
+Z   ;   0   z
+Z   ;   0   }
+
+122
+F   f(TXO){E}   2   #
+F   f(TXO){E}   2   2
+F   f(TXO){E}   2   a
+F   f(TXO){E}   2   f
+F   f(TXO){E}   2   h
+F   f(TXO){E}   2   w
+F   f(TXO){E}   2   y
+F   f(TXO){E}   2   z
+F   f(TXO){E}   2   }
+T   DNZ   0   2
+D   a   0   2
+D   z   0   2
+D   y   0   2
+D   h   0   2
+
+123
+F   f(TXO){E}   7   #
+F   f(TXO){E}   7   2
+F   f(TXO){E}   7   a
+F   f(TXO){E}   7   f
+F   f(TXO){E}   7   h
+F   f(TXO){E}   7   w
+F   f(TXO){E}   7   y
+F   f(TXO){E}   7   z
+F   f(TXO){E}   7   r
+F   f(TXO){E}   7   }
+E   WE   0   }
+E   XE   0   }
+E   TE   0   }
+E   FE   0   }
+E   @   0   }
+W   w(3){E}   0   #
+W   w(3){E}   0   2
+W   w(3){E}   0   a
+W   w(3){E}   0   f
+W   w(3){E}   0   h
+W   w(3){E}   0   w
+W   w(3){E}   0   y
+W   w(3){E}   0   z
+W   w(3){E}   0   }
+X   OZ   0   #
+X   OZ   0   2
+X   OZ   0   a
+X   OZ   0   f
+X   OZ   0   h
+X   OZ   0   w
+X   OZ   0   y
+X   OZ   0   z
+X   OZ   0   }
+T   DNZ   0   #
+T   DNZ   0   2
+T   DNZ   0   a
+T   DNZ   0   f
+T   DNZ   0   h
+T   DNZ   0   w
+T   DNZ   0   y
+T   DNZ   0   z
+T   DNZ   0   }
+F   f(TXO){E}   0   #
+F   f(TXO){E}   0   2
+F   f(TXO){E}   0   a
+F   f(TXO){E}   0   f
+F   f(TXO){E}   0   h
+F   f(TXO){E}   0   w
+F   f(TXO){E}   0   y
+F   f(TXO){E}   0   z
+F   f(TXO){E}   0   }
+O   2LYM   0   ;
+D   a   0   2
+D   z   0   2
+D   y   0   2
+D   h   0   2
+
+124
+O   2LYM   3   )
+M   QYM   0   )
+M   @   0   )
+Q   +   0   2
+Q   -   0   2
+Q   /   0   2
+Q   +   0   3
+Q   -   0   3
+Q   /   0   3
+
+125
+Y   2   1   #
+Y   2   1   +
+Y   2   1   -
+Y   2   1   /
+Y   2   1   )
+
+126
+Y   3   1   #
+Y   3   1   +
+Y   3   1   -
+Y   3   1   /
+Y   3   1   )
+
+127
+W   w(3){E}   3   #
+W   w(3){E}   3   2
+W   w(3){E}   3   a
+W   w(3){E}   3   f
+W   w(3){E}   3   h
+W   w(3){E}   3   w
+W   w(3){E}   3   y
+W   w(3){E}   3   z
+W   w(3){E}   3   }
+
+128
+T   DNZ   3   #
+T   DNZ   3   2
+T   DNZ   3   a
+T   DNZ   3   f
+T   DNZ   3   h
+T   DNZ   3   w
+T   DNZ   3   y
+T   DNZ   3   z
+T   DNZ   3   }
+
+129
+F   f(TXO){E}   3   #
+F   f(TXO){E}   3   2
+F   f(TXO){E}   3   a
+F   f(TXO){E}   3   f
+F   f(TXO){E}   3   h
+F   f(TXO){E}   3   w
+F   f(TXO){E}   3   y
+F   f(TXO){E}   3   z
+F   f(TXO){E}   3   }
+X   OZ   0   2
+O   2LYM   0   ;
+
+130
+F   f(TXO){E}   8   #
+F   f(TXO){E}   8   2
+F   f(TXO){E}   8   a
+F   f(TXO){E}   8   f
+F   f(TXO){E}   8   h
+F   f(TXO){E}   8   w
+F   f(TXO){E}   8   y
+F   f(TXO){E}   8   z
+F   f(TXO){E}   8   r
+F   f(TXO){E}   8   }
+
+131
+O   2LYM   4   )
+
+132
+M   QYM   1   )
+Y   2   0   #
+Y   3   0   #
+Y   2   0   +
+Y   3   0   +
+Y   2   0   -
+Y   3   0   -
+Y   2   0   /
+Y   3   0   /
+Y   2   0   )
+Y   3   0   )
+
+133
+M   @   1   )
+
+134
+W   w(3){E}   4   #
+W   w(3){E}   4   2
+W   w(3){E}   4   a
+W   w(3){E}   4   f
+W   w(3){E}   4   h
+W   w(3){E}   4   w
+W   w(3){E}   4   y
+W   w(3){E}   4   z
+W   w(3){E}   4   }
+
+135
+F   f(TXO){E}   4   #
+F   f(TXO){E}   4   2
+F   f(TXO){E}   4   a
+F   f(TXO){E}   4   f
+F   f(TXO){E}   4   h
+F   f(TXO){E}   4   w
+F   f(TXO){E}   4   y
+F   f(TXO){E}   4   z
+F   f(TXO){E}   4   }
+O   2LYM   0   )
+
+136
+F   f(TXO){E}   9   #
+F   f(TXO){E}   9   2
+F   f(TXO){E}   9   a
+F   f(TXO){E}   9   f
+F   f(TXO){E}   9   h
+F   f(TXO){E}   9   w
+F   f(TXO){E}   9   y
+F   f(TXO){E}   9   z
+F   f(TXO){E}   9   r
+F   f(TXO){E}   9   }
+
+137
+M   QYM   2   )
+M   QYM   0   )
+M   @   0   )
+Q   +   0   2
+Q   -   0   2
+Q   /   0   2
+Q   +   0   3
+Q   -   0   3
+Q   /   0   3
+
+138
+W   w(3){E}   5   #
+W   w(3){E}   5   2
+W   w(3){E}   5   a
+W   w(3){E}   5   f
+W   w(3){E}   5   h
+W   w(3){E}   5   w
+W   w(3){E}   5   y
+W   w(3){E}   5   z
+W   w(3){E}   5   }
+E   WE   0   }
+E   XE   0   }
+E   TE   0   }
+E   FE   0   }
+E   @   0   }
+W   w(3){E}   0   #
+W   w(3){E}   0   2
+W   w(3){E}   0   a
+W   w(3){E}   0   f
+W   w(3){E}   0   h
+W   w(3){E}   0   w
+W   w(3){E}   0   y
+W   w(3){E}   0   z
+W   w(3){E}   0   }
+X   OZ   0   #
+X   OZ   0   2
+X   OZ   0   a
+X   OZ   0   f
+X   OZ   0   h
+X   OZ   0   w
+X   OZ   0   y
+X   OZ   0   z
+X   OZ   0   }
+T   DNZ   0   #
+T   DNZ   0   2
+T   DNZ   0   a
+T   DNZ   0   f
+T   DNZ   0   h
+T   DNZ   0   w
+T   DNZ   0   y
+T   DNZ   0   z
+T   DNZ   0   }
+F   f(TXO){E}   0   #
+F   f(TXO){E}   0   2
+F   f(TXO){E}   0   a
+F   f(TXO){E}   0   f
+F   f(TXO){E}   0   h
+F   f(TXO){E}   0   w
+F   f(TXO){E}   0   y
+F   f(TXO){E}   0   z
+F   f(TXO){E}   0   }
+O   2LYM   0   ;
+D   a   0   2
+D   z   0   2
+D   y   0   2
+D   h   0   2
+
+139
+F   f(TXO){E}   5   #
+F   f(TXO){E}   5   2
+F   f(TXO){E}   5   a
+F   f(TXO){E}   5   f
+F   f(TXO){E}   5   h
+F   f(TXO){E}   5   w
+F   f(TXO){E}   5   y
+F   f(TXO){E}   5   z
+F   f(TXO){E}   5   }
+
+140
+M   QYM   3   )
+
+141
+W   w(3){E}   6   #
+W   w(3){E}   6   2
+W   w(3){E}   6   a
+W   w(3){E}   6   f
+W   w(3){E}   6   h
+W   w(3){E}   6   w
+W   w(3){E}   6   y
+W   w(3){E}   6   z
+W   w(3){E}   6   }
+
+142
+F   f(TXO){E}   6   #
+F   f(TXO){E}   6   2
+F   f(TXO){E}   6   a
+F   f(TXO){E}   6   f
+F   f(TXO){E}   6   h
+F   f(TXO){E}   6   w
+F   f(TXO){E}   6   y
+F   f(TXO){E}   6   z
+F   f(TXO){E}   6   }
+
+143
+W   w(3){E}   7   #
+W   w(3){E}   7   2
+W   w(3){E}   7   a
+W   w(3){E}   7   f
+W   w(3){E}   7   h
+W   w(3){E}   7   w
+W   w(3){E}   7   y
+W   w(3){E}   7   z
+W   w(3){E}   7   }
+
+144
+F   f(TXO){E}   7   #
+F   f(TXO){E}   7   2
+F   f(TXO){E}   7   a
+F   f(TXO){E}   7   f
+F   f(TXO){E}   7   h
+F   f(TXO){E}   7   w
+F   f(TXO){E}   7   y
+F   f(TXO){E}   7   z
+F   f(TXO){E}   7   }
+E   WE   0   }
+E   XE   0   }
+E   TE   0   }
+E   FE   0   }
+E   @   0   }
+W   w(3){E}   0   #
+W   w(3){E}   0   2
+W   w(3){E}   0   a
+W   w(3){E}   0   f
+W   w(3){E}   0   h
+W   w(3){E}   0   w
+W   w(3){E}   0   y
+W   w(3){E}   0   z
+W   w(3){E}   0   }
+X   OZ   0   #
+X   OZ   0   2
+X   OZ   0   a
+X   OZ   0   f
+X   OZ   0   h
+X   OZ   0   w
+X   OZ   0   y
+X   OZ   0   z
+X   OZ   0   }
+T   DNZ   0   #
+T   DNZ   0   2
+T   DNZ   0   a
+T   DNZ   0   f
+T   DNZ   0   h
+T   DNZ   0   w
+T   DNZ   0   y
+T   DNZ   0   z
+T   DNZ   0   }
+F   f(TXO){E}   0   #
+F   f(TXO){E}   0   2
+F   f(TXO){E}   0   a
+F   f(TXO){E}   0   f
+F   f(TXO){E}   0   h
+F   f(TXO){E}   0   w
+F   f(TXO){E}   0   y
+F   f(TXO){E}   0   z
+F   f(TXO){E}   0   }
+O   2LYM   0   ;
+D   a   0   2
+D   z   0   2
+D   y   0   2
+D   h   0   2
+
+145
+F   f(TXO){E}   8   #
+F   f(TXO){E}   8   2
+F   f(TXO){E}   8   a
+F   f(TXO){E}   8   f
+F   f(TXO){E}   8   h
+F   f(TXO){E}   8   w
+F   f(TXO){E}   8   y
+F   f(TXO){E}   8   z
+F   f(TXO){E}   8   }
+
+146
+F   f(TXO){E}   9   #
+F   f(TXO){E}   9   2
+F   f(TXO){E}   9   a
+F   f(TXO){E}   9   f
+F   f(TXO){E}   9   h
+F   f(TXO){E}   9   w
+F   f(TXO){E}   9   y
+F   f(TXO){E}   9   z
+F   f(TXO){E}   9   }
+

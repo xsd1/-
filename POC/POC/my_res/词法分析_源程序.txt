@@ -1,0 +1,31 @@
+#include<iostream>
+#include<string>
+#include<vector>
+#include<set>
+int main()
+{
+	int _a;
+	int b12b;
+	int d=1,e,f=2.11e11.2+123i, c=100;
+	int cc = 1;
+	cc = cc+1;
+	for(int i=0; i<10; i += 5)
+	{
+		i = 5+i;
+	}
+	int mm = 0.0110;
+	int tt = 10+5i;
+	while(1)
+	{
+		int abbbb123=2.11e11.2+123i;
+		while(1)
+		{
+			_a += 1;
+		}
+	}
+	while(1)
+	{
+		b12b += 3e11.1+2i;
+	}
+	return 1;	
+}
